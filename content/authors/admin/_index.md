@@ -14,28 +14,27 @@ role: Research Assistant
 
 # Organizations/Affiliations
 organizations:
-- name: University of Wisconsin--Madison
+- name: University of Wisconsin-Madison
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a Ph.D. student supervised by Prof. Kim, and my hometown is Fuzhou, China. Before I join the WISEST Lab, I graduated with a BS degree conferred by Beijing Institute of Technology (BIT) and a BEng degree with the First-Class Honours awarded by The Australian National University (ANU) through their joint degree program.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Internet of Things
+- Human Centered-Computing
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Ph.D. in Computer Engineering
+    institution: University of Wisconsin-Madison
+    year: 2017-Present
+  - course: Bachelor of Engineering (R&D) (First-Class Honours) in Electronics and Communication Systems
+    institution: Australian National University
+    year: 2015-2017
+  - course: Bachelor of Science in Electronic Information Engineering
+    institution: Beijing Institute of Technology
+    year: 2013-2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
