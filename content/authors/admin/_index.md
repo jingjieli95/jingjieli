@@ -26,13 +26,13 @@ interests:
 
 education:
   courses:
-  - course: Ph.D. in Computer Engineering
+  - course: Ph.D. 
     institution: University of Wisconsin-Madison
     year: 2017-Present
-  - course: Bachelor of Engineering (R&D) (First-Class Honours) in Electronics and Communication Systems
+  - course: Bachelor of Engineering (R&D)(Honours)
     institution: Australian National University
     year: 2015-2017
-  - course: Bachelor of Science in Electronic Information Engineering
+  - course: Bachelor of Science
     institution: Beijing Institute of Technology
     year: 2013-2017
 
