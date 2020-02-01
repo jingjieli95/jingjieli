@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. student supervised by Prof. Kim, and my hometown is Fuzhou, China. Before I join the WISEST Lab, I graduated with a BS degree conferred by Beijing Institute of Technology (BIT) and a BEng degree with the First-Class Honours awarded by The Australian National University (ANU) through their joint degree program.
+  bio: Mad scientist.
 
 interests:
 - Internet of Things
