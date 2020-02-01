@@ -71,4 +71,4 @@ user_groups:
 
 I am a Ph.D. student at the University of Wisconsin-Madison, majoring in computer engineering. My advisor is Prof. Younghyun Kim at the Wisconsin Embedded Systems and Computing (WISEST) Lab.
 
-Living with my childhood dream, I enjoy inventing, designing, and building 'future gadgets' that serve user-centered applications by unconventional computing techinques and devices.
+Living with my childhood dream, I enjoy inventing, designing, and building 'future gadgets’ that serve user-centered applications by unconventional computing techinques and devices.
