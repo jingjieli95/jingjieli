@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Jingjie Li (李竞捷)
+name: Jingjie Li 
 
 # Username (this should match the folder name)
 authors:
