@@ -26,7 +26,7 @@ subtitle = ""
      tag = "*"
 
  [[content.filter_button]]
-   name = "Attention Network"
+   name = "Velody"
    tag = "Velody"
 
  [[content.filter_button]]
@@ -110,8 +110,8 @@ view = 1
   tag = "*"
 
 [[filter]]
-  name = "Attention Networks"
-  tag = ".attention-networks"
+  name = "Velody"
+  tag = ".Velody"
 
 [[filter]]
   name = "Computational Communication"
@@ -119,5 +119,4 @@ view = 1
 
 +++
 
-- Bringing Back the Reference Group: Agent-based Modeling of Spiral of Silence. National postdoc grant (￥50000, 2015M571722)
-- The Network Threshold of the Formation and Diffusion of Public Opinion. National Social Science Fundation for Young Scholars(￥200'000, 15CXW017) -->
+
