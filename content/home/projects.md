@@ -26,16 +26,16 @@ subtitle = ""
     tag = "*"
 
   [[content.filter_button]]
-    name = "Inner Core Boundary"
-    tag = "Inner Core Boundary"
+    name = ""
+    tag = ""
 
   [[content.filter_button]]
-    name = "Nuclear Tests"
-    tag = "Nuclear Tests"
+    name = ""
+    tag = ""
 
   [[content.filter_button]]
-    name = "Mantle Discontinuities"
-    tag = "Mantle Discontinuities"
+    name = ""
+    tag = ""
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
