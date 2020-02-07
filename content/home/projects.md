@@ -27,7 +27,7 @@ subtitle = ""
 
  [[content.filter_button]]
    name = "Attention Network"
-   tag = "attention-networks"
+   tag = "Velody"
 
  [[content.filter_button]]
    name = "Computational Communication"
