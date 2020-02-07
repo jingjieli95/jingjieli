@@ -11,7 +11,7 @@ summary = "This project aims to study the attention dynamics using flow network 
 
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "tracing.jpg"
+# image_preview = "tracing.jpg"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
